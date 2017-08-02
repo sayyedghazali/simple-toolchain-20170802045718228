@@ -1,4 +1,5 @@
 applications:
 - name: hello2
-  memory: 128M
+  memory: 512M
   buildpack: sdk-for-nodejs
+  domain: mybluemix.net
